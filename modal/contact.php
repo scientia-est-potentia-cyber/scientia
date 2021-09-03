@@ -4,10 +4,10 @@
 $php_main_email = "scientia.est.potentia87@gmail.com";
 
 //Fetching Values from URL
-$php_name = $_POST['ajax_name'];
-$php_email = $_POST['ajax_email'];
-$php_subject = $_POST['ajax_subject'];
-$php_message = $_POST['ajax_message'];
+$php_name = $_POST['name'];
+$php_email = $_POST['email'];
+$php_subject = $_POST['subject'];
+$php_message = $_POST['message'];
 
 
 
